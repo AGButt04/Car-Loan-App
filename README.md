@@ -65,10 +65,3 @@ This project demonstrates modern Android development skills:
 
 ---
 **Part of my Android development portfolio** | https://github.com/AGButt04 | https://www.linkedin.com/in/abdul-ghani-butt-290056338/
-Built with Kotlin and Jetpack Compose.
-
-Uses NavHost and composable for navigation.
-
-Responsive layouts using Compose modifiers and conditional logic for orientation.
-
-State management with ViewModel and Compose state.
