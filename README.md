@@ -64,4 +64,4 @@ This project demonstrates modern Android development skills:
 - **Visual Polish**: Material 3 theming with proper spacing, typography, and color schemes
 
 ---
-**Part of my Android development portfolio** | https://github.com/AGButt04 | https://www.linkedin.com/in/abdul-ghani-butt-290056338/
+**Part of my Android development portfolio** | [Github Profile](https://github.com/AGButt04) | [LinkedIn](https://www.linkedin.com/in/abdul-ghani-butt-290056338/)
